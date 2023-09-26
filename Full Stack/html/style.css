@@ -1,0 +1,80 @@
+*{
+    font-family: poppins;
+    font-weight:400;
+    }
+    h2,h3{
+        color:#F4D160;
+        font-weight: 300;
+    
+    }
+    h4{
+        color:white;
+        font-weight: 400; 
+    }
+    .skills{
+        background-color:cadetblue;
+        border: 10px solid black;
+        border-width:10px 10px;
+        margin-left: 50;
+    }
+    .edu{
+        background-color:cadetblue;
+        border: 10px solid black;
+        border-width:10px 10px;
+        margin-left: 50;
+    }
+    .cert{
+        background-color:cadetblue;
+        border: 10px solid black;
+        border-width:10px 10px;
+        margin-left: 50;
+    }
+    .more{
+        background-color:cadetblue;
+        border: 10px solid black;
+        border-width:10px 10px;
+        margin-left: 50;
+    }
+    .footer{
+        background-color: #78C1F3;
+        text-align: center;
+    }
+    #main{
+        background-color: #A8A196;
+        border:5px solid black;
+    }
+    img{
+        width:10%;
+        height:19.5%;
+        border:5px solid black;
+        margin-left: 10px;
+        position: absolute;
+    }
+    .nav-bar{
+        text-align: center;
+        }
+    .ul-nav{
+        text-decoration: none;
+    list-style-type: none;
+    color: white;
+    }   
+    .li-nav{
+        float:left;
+    margin-left: 90px;
+    margin-right: 40px;
+    margin-top: 3px;
+    text-transform: uppercase;
+    color: wheat;
+    }
+    li a:hover{
+        color:green;
+    }
+    li :visited{
+        color:black;
+    }
+    a{
+        color: white;
+    }
+    li {
+        color:white;
+    }
